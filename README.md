@@ -61,12 +61,9 @@ The notebook provides insights into the distribution of categories, time-based t
 
 ## Conclusion
 
-This project demonstrates the use of various machine learning techniques to analyze and cluster research papers based on their abstracts, providing valuable insights into the research trends over time.
+This project demonstrates various machine learning techniques to analyze and cluster research papers based on their abstracts, providing valuable insights into the research trends over time.
 
 ## License
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any questions or issues, please contact Arnav at arnav@example.com.
